@@ -4,7 +4,7 @@ def count_elements(arr)
     result << i += 1 
   end
     
-  }
+
   result
 end
  
