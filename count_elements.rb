@@ -1,4 +1,5 @@
 def count_elements(arr)
-  a
+  result = Hash.new`
+  arr.each_with
 end
  
