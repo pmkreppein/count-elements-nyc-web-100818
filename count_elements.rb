@@ -1,6 +1,8 @@
 def count_elements(arr)
   result = Hash.new(0)
-  for i in result 
+  arr.each do |i| 
+    result << i++  
+  end
     
   }
   result
