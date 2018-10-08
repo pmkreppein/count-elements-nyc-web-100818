@@ -4,5 +4,6 @@ def count_elements(arr)
     result << ('#{val}' => index+=1)
     
   }
+  result
 end
  
